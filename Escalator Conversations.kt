@@ -1,7 +1,8 @@
 link problem :    https://codeforces.com/contest/1851/problem/A
 
-import kotlin.math.abs
 
+
+import kotlin.math.abs
 fun main(args: Array<String>) {
 
     var testCase = readLine()!!.toInt()
